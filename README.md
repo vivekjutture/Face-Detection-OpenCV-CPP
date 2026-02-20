@@ -1,4 +1,4 @@
-#😀 Face Detection System — Image & Live Video
+# 😀 Face Detection System — Image & Live Video
 
 Detect faces from an image or a live camera using OpenCV (Haar Cascade).
 
