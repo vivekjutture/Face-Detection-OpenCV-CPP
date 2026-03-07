@@ -1,6 +1,6 @@
-# 😀 Face Detection System — Image & Live Video
+# 😀 CascadeVision
 
-Detect faces from an image or a live camera using OpenCV (Haar Cascade).
+This is Face Detection System which detects faces from an image or a live camera using OpenCV (Haar Cascade).
 
 ---
 
